@@ -1,6 +1,6 @@
 {
   "name": "kc-smptest",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "[js] Simplest Unit Test function.",
   "main": "index.js",
   "repository": {

@@ -5,14 +5,14 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/KaisarCode/js-smptest.git"
+    "url": "git+https://github.com/kaisarsnippets/js-smptest.git"
   },
   "author": "KaisarCode",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/KaisarCode/js-smptest/issues"
+    "url": "https://github.com/kaisarsnippets/js-smptest/issues"
   },
-  "homepage": "https://github.com/KaisarCode/js-smptest",
+  "homepage": "https://github.com/kaisarsnippets/js-smptest",
   "keywords": [
     "simple",
     "test",
